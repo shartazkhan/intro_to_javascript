@@ -1,6 +1,6 @@
 // My First JavaScript Code - Day 1 Learning Notes
-// Author: [Your Name]
-// Date: [Today's Date]
+// Author: Shartaz Khan Akash
+// Date: 22/05/2023
 
 // Basic Output to the Console (Commented out for now)
 // console.log('Hello World!'); // This line prints a message to the developer console
